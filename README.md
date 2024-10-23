@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-kumar-vishwakarma-7a9544251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-kumar-vishwakarma-7a9544251/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/vivek-kumar-vishwakarma-7a9544251/](https://www.linkedin.com/in/vivek-kumar-vishwakarma-7a9544251/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-kumar-vishwakarma-7a9544251/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@electricengineermind07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@electricengineermind07" height="30" width="40" /></a>
 </p>
 
