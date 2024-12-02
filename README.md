@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Disaster Management and Surveiliance**
 
-- 🌱 I’m currently learning **C++, ROS2, Fusion 360**
+- 🌱 I’m currently learning **ROS2, Fusion 360, DSA in C++**
 
-- 💬 Ask me about **ROS2**
+- 💬 Ask me about **C Programming, Python, Java, ROS2, C++**
 
 - 📫 How to reach me **vivekkumarvishwakarma2226@gmail.com**
 
