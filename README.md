@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ROS2, Fusion 360, DSA in C++**
 
-- 💬 Ask me about **C Programming, ROS2, C++, DSA in C++**
+- 💬 Ask me about **C Programming, TinkerCad, Python, Embedded C, PCB Design**
 
 - 📫 How to reach me **vivekkumarvishwakarma2226@gmail.com**
 
