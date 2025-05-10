@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Disaster Management and Surveiliance**
 
-- 🌱 I’m currently learning **DSA using C++, SLAM, Fusion 360**
+- 🌱 I’m currently learning **SLAM, Fusion 360, DSA using C++**
 
 - 💬 Ask me about **C Programming, TinkerCad, Python, Embedded C, C++, PCB Design, ROS2**
 
