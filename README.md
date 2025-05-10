@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Disaster Management and Surveiliance**
 
-- 🌱 I’m currently learning **C++, ROS2, Fusion 360**
+- 🌱 I’m currently learning **DSA using C++, SLAM, Fusion 360**
 
-- 💬 Ask me about **C Programming, TinkerCad, Python, Embedded C, PCB Design**
+- 💬 Ask me about **C Programming, TinkerCad, Python, Embedded C, C++, PCB Design, ROS2**
 
 - 📫 How to reach me **vivekkumarvishwakarma2226@gmail.com**
 
