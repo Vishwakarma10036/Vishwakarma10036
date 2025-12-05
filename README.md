@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vivekkumarvishwakarma2226@gmail.com**
 
-- ⚡ Fun fact **Lightning is hotter than the sun's surface!**
+- ⚡ Fun fact **Git was created in just 10 days, and now the world runs on it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
