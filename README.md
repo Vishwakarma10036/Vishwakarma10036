@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwakarma10036&label=Profile%20views&color=0e75b6&style=flat" alt="vishwakarma10036" /> </p>
 
-- 🔭 I’m currently working on **Disaster Management and Surveiliance**
+- 🔭 I’m currently working on **Automotive Electronics, Go-Kart Innovation & Intelligent Control Systems**
 
 - 🌱 I’m currently learning **SLAM, DSA using C++, SQL**
 
